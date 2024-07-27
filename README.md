@@ -66,8 +66,10 @@
 
 <p><a href="https://www.buymeacoffee.com/kharadisaqib"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kharadisaqib" /></a><a href="https://ko-fi.com/kharadisaqib"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kharadisaqib" /></a></p><br><br>
 <br>
-<h3 id="github-stats">Github Stats</h3>
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kharadi-saqib&show_icons=true&locale=en" alt="kharadi-saqib" style="flex: 1; margin-right: 10px; max-width: 50%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kharadi-saqib&" alt="kharadi-saqib" style="flex: 1; margin-left: 10px; max-width: 50%;" />
+<div align="center">
+<h2 id="current-stats">GitHub Current Stats</h2>
+<br>
 </div>
+<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=kharadi-saqib&amp;theme=gotham&amp;show_icons=true" alt="shamimsikder">
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=kharadi-saqib&amp;show_icons=true&amp;theme=gotham">
+</p>
