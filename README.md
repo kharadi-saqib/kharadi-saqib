@@ -6,11 +6,6 @@
   </p><h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
 <p></p>
 <p align="center">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=kharadi-saqib&label=Profile%20Views&color=0&icon=5&pretty=true" />
-    </a>
-</p>
-<p align="center">
 <br>
 </p><p><a href="https://www.instagram.com/kharadi.saqib/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>&nbsp;
 <a href="https://www.linkedin.com/in/saqib-kharadi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>&nbsp;
@@ -70,6 +65,6 @@
 <h2 id="current-stats">GitHub Current Stats</h2>
 <br>
 </div>
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=kharadi-saqib&amp;theme=gotham&amp;show_icons=true" alt="shamimsikder">
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=kharadi-saqib&amp;show_icons=true&amp;theme=gotham">
+
+<p align="center"><img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=kharadi-saqib&amp;show_icons=true&amp;theme=gotham">
 </p>
